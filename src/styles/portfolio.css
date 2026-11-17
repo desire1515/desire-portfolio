@@ -1119,6 +1119,10 @@ button {
     display: inline-flex;
   }
 
+  .footer-nav {
+    display: none;
+  }
+
   .nav-link {
     justify-content: center;
   }
